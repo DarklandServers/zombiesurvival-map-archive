@@ -14,10 +14,10 @@
 - [Slide 'n' Shine FastDL](https://fastdl.slidenshine.net/gmodZS/maps/)
 
 ## Subdirectories
-- broken/* - maps that need fixing to do.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions.
 - modified/* - fixed/improved for Garry's Mod 13.
+- readmes/* - original map info.
 - thumb/* - official map icons.
 
 ## FAQ
