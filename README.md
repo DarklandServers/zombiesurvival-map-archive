@@ -17,6 +17,7 @@
 - broken/* - maps that need fixing to do.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions.
+- modified/* - fixed/improved for Garry's Mod 13.
 - thumb/* - official map icons.
 
 ## FAQ
