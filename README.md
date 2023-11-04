@@ -20,7 +20,7 @@
 - /Counter-Strike - Source/* - CS:S maps/content hosted on ZS.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
-- darkland/* - fixed/improved for Garry's Mod 13 ZS Server.
+- modified/* - fixed/improved for Garry's Mod 13 ZS Server.
 - readmes/* - original map description.
 - readmes/Counter-Strike - Source/maps/* - info intended for CS:S.
 - screenshots/* - ZS images that came with maps.
