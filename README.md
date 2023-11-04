@@ -17,7 +17,7 @@
 - [Slide 'n' Shine FastDL](https://fastdl.slidenshine.net/gmodZS/maps/)
 
 ## Subdirectories
-- /~Counter-Strike - Source/* - CS:S maps/content hosted on ZS.
+- /Counter-Strike - Source/* - CS:S maps/content hosted on ZS.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
 - darkland/* - fixed/improved for Garry's Mod 13 ZS Server.
