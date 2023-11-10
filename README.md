@@ -25,6 +25,7 @@
 - /Garry's Mod 12/* - made way after the classic era.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
+- maps_vmf/* - sources of the legendary works.
 - modified/* - fixed/improved for Garry's Mod 13 ZS Server.
 - readmes/* - original map description.
 - screenshots/* - ZS images that came with maps.
