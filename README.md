@@ -1,5 +1,8 @@
 # Zombie Survival Map Archive
 
+## Contributors:
+- [Clavus](https://steamcommunity.com/id/clavus)
+
 ## Sources:
 - [17 Buddies](https://www.17buddies.rocks/17b2/)
 - [ClavusElite’s Website Crawl (2008)](https://web.archive.org/web/20080926132247/http://www.clavusstudios.nl/index.html)
@@ -19,6 +22,7 @@
 
 ## Subdirectories
 - /Counter-Strike - Source/* - CS:S maps/content hosted on ZS.
+- /Garry's Mod 12/* - made way after the classic era.
 - maps/* - the maps itself.
 - maps/(Map Name)/* - maps with revisions or preserved in original packaging.
 - modified/* - fixed/improved for Garry's Mod 13 ZS Server.
