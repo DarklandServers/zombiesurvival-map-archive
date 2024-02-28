@@ -32,7 +32,7 @@
 
 ## FAQ
 - Q: I have an old hard drive with some maps on it-
-- A: Say no more. just send everything to "Soldier" in the DarklandServers Discord server. I will look through them. Or, if you prefer, pull requests are open.
+- A: Say no more. just send everything to "Proximity77" in the DarklandServers Discord server. I will look through them. Or, if you prefer, pull requests are open.
 - Q: Where are the builds?
 - A: Over [Here](https://github.com/DarklandServers/zombiesurvival-archive)
 
