@@ -2,6 +2,7 @@
 
 ## Contributors:
 - [Clavus](https://steamcommunity.com/id/clavus)
+- [Johnny Moe](https://steamcommunity.com/id/johnny_moe)
 
 ## Sources:
 - [17 Buddies](https://www.17buddies.rocks/17b2/)
